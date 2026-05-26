@@ -7,7 +7,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 **Equipments Required:**
 
 Software – Quartus prime 
-
+ 
 **Theory**
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
